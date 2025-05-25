@@ -38,7 +38,7 @@ const CaseStudies = () => {
   ];
 
   return (
-    <div className="min-h-screen text-amber-50 py-20 sm:py-24 md:py-28 px-4 sm:px-6 md:px-8 lg:px-12">
+    <div className="min-h-screen text-amber-50 pt-24 sm:pt-28 md:pt-32 pb-16 sm:pb-20 md:pb-24 px-4 sm:px-6 md:px-8 lg:px-12">
       <div className="max-w-7xl mx-auto">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-center mb-8 sm:mb-12">Success Stories</h1>
         
